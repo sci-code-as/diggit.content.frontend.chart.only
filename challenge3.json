@@ -1,0 +1,116 @@
+{
+    "id": "bsR5zei2NUuZWvSvwaUerA",
+    "description": {
+      "id": "5FnX7jZLi0eeZW-qegLhTg",
+      "object": "challenge",
+      "created": 1581554917050,
+      "creator": "auth0|5e34cd09afb6530e2a739a9f",
+      "title": "Implement a Chart for a Next-Gen Innovation Analytics Page",
+      "tagline": "Your starting point is a design hand-off. The rest is up to you. Show us what you've got.",
+      "category": "front-end",
+      "tags": ["react.js", "redux.js"],
+      "promo_image": "https://diggit.no/_next/static/images/challenge-background-bcd3b84134698085181a5f5fac0a8787.jpg",
+      "promo_video": "https://www.youtube.com/watch?v=5hrwJEIAAHE",
+      "availability_ranges": [
+        {
+          "open_time": 1581554917050,
+          "close_time": 1581554917050
+        }
+      ],
+      "minimum_level": "Junior Web Developer",
+      "langauge": "eng",
+      "organizers": [
+        {
+          "id": "OXBhuFo1FUSU8xwSoDBW2g",
+          "name": "SCI-CODE AS",
+          "slogan": "closing the gap between industry and education",
+          "vision_statement": "Sci-Code, as a company, is actively developing services, tools and technologies that contributes towards closing the gap between industry and education. The motivation and value upon which the Company has been built is usefulness. The key of any country’s societal development is based on Education. It is how a generation of people pass its knowledge, know-how and values to the next one. This is why we're building a new educational system, pillared on the advances in technology that will enable exploratory learning, personalized learning experiences tailored to each individual, and the most  stimulating education in the world; verified by our algorithms. This system will serve as an alternative to the current education system, allowing for a seamless and gradual, piece-by-piece transition. And through building this new system, we allow for the change of our current societal dogma of school and learning being perceived as necessarily boring and hard, into school and learning being AWESOME.",
+          "org_number": 919213914,
+          "org_type": "NO_AS",
+          "culture": {
+            "principles": [
+              "Great cultures bring problems and disagreements to the surface and solve them well, and they love imagining and building great things that haven’t been built before."
+            ],
+            "values": ["sustainability"]
+          },
+          "branding": {
+            "icon": {
+              "id": "bsR5zei2NUuZWvSvwaUerA",
+              "created": 1581554917050,
+              "title": "string",
+              "filename": "string",
+              "type": "file",
+              "size": 0,
+              "fileFormat": "jpg",
+              "url": "string"
+            },
+            "logo": {
+              "id": "krcjVeUd_EOc3dsh8BLA5w",
+              "created": 1581554917050,
+              "title": "string",
+              "filename": "string",
+              "type": "file",
+              "size": 0,
+              "fileFormat": "jpg",
+              "url": "string"
+            },
+            "primary_color": "string"
+          },
+          "links": {
+            "website": "https://example.com/some/path",
+            "github": "https://example.com/some/path",
+            "stackshare": "https://example.com/some/path",
+            "linkedin": "https://example.com/some/path",
+            "facebook": "https://example.com/some/path",
+            "twitter": "https://example.com/some/path"
+          },
+          "members": [
+            {
+              "user_id": "string",
+              "picture": "string",
+              "given_name": "string",
+              "family_name": "string"
+            }
+          ]
+        }
+      ],
+      "published": true
+    },
+    "content": {
+      "id": "E2jpnX6ss02F-ygrqBsuEQ",
+      "created": 1581554917050,
+      "creator": "auth0|5e34cd09afb6530e2a739a9f",
+      "displayInfo": {
+        "promoImage": "https://example.com/some/path"
+      },
+      "description": [
+        {
+          "id": "GUPttJhPkE6xpm9cclNQiQ",
+          "created": 1581554917050,
+          "creator": "auth0|5e34cd09afb6530e2a739a9f",
+          "type": "text",
+          "content": "Aim to implement this in VUE.js for Mojob within 1 hour. Will you be able to create the charts in time for you senior developer?",
+          "language": "eng",
+          "format": "markdown"
+        }
+      ],
+      "type": "codebase",
+      "starterCodebase": {
+        "filesystem": "string",
+        "repoUrl": "https://git.diggit.space/diggit/nextgen-innovation-analytics-page"
+      }
+    },
+    "introVideo": {
+      "src": {
+        "id": "3z8K3PpIKEuOnRTIV-frHQ",
+        "created": 1581554917050,
+        "title": "string",
+        "filename": "string",
+        "type": "file",
+        "size": 0,
+        "fileFormat": "jpg",
+        "url": "string"
+      },
+      "transcript": "string"
+    }
+  }
